@@ -1,0 +1,16 @@
+На официальном сайте рекомендуют скачать библиотеку FAudio для i386 и amd64:
+https://wiki.winehq.org/Ubuntu
+
+1. libfaudio0_i386: wget https://download.opensuse.org/repositories/Emulators:/Wine:/Debian/xUbuntu_18...
+https://download.opensuse.org/repositories/Emulators:/Wine:/Debian/xUbuntu_18.04/i386/libfaudio0_19.07-0~bionic_i386.deb
+
+Если ссылка не работает, ищите последнюю версию здесь
+https://download.opensuse.org/repositories/Emulators:/Wine:/Debian/xUbuntu_18.04/i386/
+
+2. libfaudio0_amd64: wget https://download.opensuse.org/repositories/Emulators:/Wine:/Debian/xUbuntu_18...
+https://download.opensuse.org/repositories/Emulators:/Wine:/Debian/xUbuntu_18.04/amd64/libfaudio0_19.07-0~bionic_amd64.deb
+
+Если ссылка не работает, ищите последнюю версию здесь
+https://download.opensuse.org/repositories/Emulators:/Wine:/Debian/xUbuntu_18.04/amd64/
+
+Потом просто действуем по инструкции - https://wiki.winehq.org/Download
